@@ -1,0 +1,51 @@
+header{
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.liCustomer{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border-style: solid;
+    max-width: 1200px;
+    cursor: pointer;
+}
+
+.liCustomer:hover{
+    background-color: rgb(207, 255, 255);
+    border-style: dotted;
+}
+
+.divCustomer{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border-style: solid;
+    max-width: 1200px;
+}
+
+h4{
+    margin-bottom: -4px;
+}
+
+.covidDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+b{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
