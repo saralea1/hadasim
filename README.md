@@ -4,6 +4,7 @@ packages:
 
 On server:
 install cors, express, mongoose
+
 add .env:
 PORT = number
 CONNECTION_STRING = connection to mongoDB
