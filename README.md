@@ -22,4 +22,6 @@ To run client:
 open in browser the file index.html
 
 
-![image](https://user-images.githubusercontent.com/73426707/197398622-0057091e-40de-4f4d-956b-686b6da39f65.png)
+![image](https://user-images.githubusercontent.com/73426707/197398712-790eae58-8fb6-4ea4-b684-07a2c18e1aa0.png)
+
+![image](https://user-images.githubusercontent.com/73426707/197398734-d6345ea1-e042-4aae-9571-ba69953dbe4c.png)
